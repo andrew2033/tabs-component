@@ -1,0 +1,25 @@
+.tabs__link {
+  text-decoration: none;
+  padding: 10px;
+  margin-right: -6px;
+  border: 1px solid red;
+  border-bottom: 0;
+  background-color: white;
+  font-size: 20px; }
+
+.tabs__wrapper {
+  padding: 10px 20px;
+  border-top: 1px solid blueviolet;
+  font-size: 20px; }
+
+.tabs__navigation {
+  display: inline-block;
+  margin: 20px 0 9px 20px; }
+
+.hide {
+  display: none; }
+
+.show {
+  background-color: blueviolet;
+  position: relative;
+  top: 2px; }
